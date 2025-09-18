@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ET73\\Downloads\\projetos-c#\\Inheritance5MetodosAbstratos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B8E65-2643-4168-BF39-685023971EE4}|Inheritance5MetodosAbstratos.csproj|c:\\users\\et73\\downloads\\projetos-c#\\inheritance5metodosabstratos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5B8E65-2643-4168-BF39-685023971EE4}|Inheritance5MetodosAbstratos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B8E65-2643-4168-BF39-685023971EE4}|Inheritance5MetodosAbstratos.csproj|c:\\users\\et73\\downloads\\projetos-c#\\inheritance5metodosabstratos\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5B8E65-2643-4168-BF39-685023971EE4}|Inheritance5MetodosAbstratos.csproj|solutionrelative:entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B8E65-2643-4168-BF39-685023971EE4}|Inheritance5MetodosAbstratos.csproj|c:\\users\\et73\\downloads\\projetos-c#\\inheritance5metodosabstratos\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5B8E65-2643-4168-BF39-685023971EE4}|Inheritance5MetodosAbstratos.csproj|solutionrelative:entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B8E65-2643-4168-BF39-685023971EE4}|Inheritance5MetodosAbstratos.csproj|c:\\users\\et73\\downloads\\projetos-c#\\inheritance5metodosabstratos\\entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5B8E65-2643-4168-BF39-685023971EE4}|Inheritance5MetodosAbstratos.csproj|solutionrelative:entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5B8E65-2643-4168-BF39-685023971EE4}|Inheritance5MetodosAbstratos.csproj|c:\\users\\et73\\downloads\\projetos-c#\\inheritance5metodosabstratos\\entities\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5B8E65-2643-4168-BF39-685023971EE4}|Inheritance5MetodosAbstratos.csproj|solutionrelative:entities\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\ET73\\Downloads\\projetos-c#\\Inheritance5MetodosAbstratos\\Entities\\Enums\\Color.cs",
+              "RelativeDocumentMoniker": "Entities\\Enums\\Color.cs",
+              "ToolTip": "C:\\Users\\ET73\\Downloads\\projetos-c#\\Inheritance5MetodosAbstratos\\Entities\\Enums\\Color.cs",
+              "RelativeToolTip": "Entities\\Enums\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T19:46:03.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\ET73\\Downloads\\projetos-c#\\Inheritance5MetodosAbstratos\\Entities\\Shape.cs",
+              "RelativeDocumentMoniker": "Entities\\Shape.cs",
+              "ToolTip": "C:\\Users\\ET73\\Downloads\\projetos-c#\\Inheritance5MetodosAbstratos\\Entities\\Shape.cs",
+              "RelativeToolTip": "Entities\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T19:46:10.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\ET73\\Downloads\\projetos-c#\\Inheritance5MetodosAbstratos\\Entities\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Entities\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\ET73\\Downloads\\projetos-c#\\Inheritance5MetodosAbstratos\\Entities\\Rectangle.cs",
+              "RelativeToolTip": "Entities\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T19:46:18.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\ET73\\Downloads\\projetos-c#\\Inheritance5MetodosAbstratos\\Entities\\Circle.cs",
+              "RelativeDocumentMoniker": "Entities\\Circle.cs",
+              "ToolTip": "C:\\Users\\ET73\\Downloads\\projetos-c#\\Inheritance5MetodosAbstratos\\Entities\\Circle.cs",
+              "RelativeToolTip": "Entities\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T19:46:25.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ET73\\Downloads\\projetos-c#\\Inheritance5MetodosAbstratos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ET73\\Downloads\\projetos-c#\\Inheritance5MetodosAbstratos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T19:45:18.79Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\ET73\Downloads\projetos-c#\Inheritance5MetodosAbstratos\bin\Debug\net8.0\Inheritance5MetodosAbstratos.exe
+C:\Users\ET73\Downloads\projetos-c#\Inheritance5MetodosAbstratos\bin\Debug\net8.0\Inheritance5MetodosAbstratos.deps.json
+C:\Users\ET73\Downloads\projetos-c#\Inheritance5MetodosAbstratos\bin\Debug\net8.0\Inheritance5MetodosAbstratos.runtimeconfig.json
+C:\Users\ET73\Downloads\projetos-c#\Inheritance5MetodosAbstratos\bin\Debug\net8.0\Inheritance5MetodosAbstratos.dll
+C:\Users\ET73\Downloads\projetos-c#\Inheritance5MetodosAbstratos\bin\Debug\net8.0\Inheritance5MetodosAbstratos.pdb
+C:\Users\ET73\Downloads\projetos-c#\Inheritance5MetodosAbstratos\obj\Debug\net8.0\Inheritance5MetodosAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ET73\Downloads\projetos-c#\Inheritance5MetodosAbstratos\obj\Debug\net8.0\Inheritance5MetodosAbstratos.AssemblyInfoInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\Inheritance5MetodosAbstratos\obj\Debug\net8.0\Inheritance5MetodosAbstratos.AssemblyInfo.cs
+C:\Users\ET73\Downloads\projetos-c#\Inheritance5MetodosAbstratos\obj\Debug\net8.0\Inheritance5MetodosAbstratos.csproj.CoreCompileInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\Inheritance5MetodosAbstratos\obj\Debug\net8.0\Inheritance5MetodosAbstratos.dll
+C:\Users\ET73\Downloads\projetos-c#\Inheritance5MetodosAbstratos\obj\Debug\net8.0\refint\Inheritance5MetodosAbstratos.dll
+C:\Users\ET73\Downloads\projetos-c#\Inheritance5MetodosAbstratos\obj\Debug\net8.0\Inheritance5MetodosAbstratos.pdb
+C:\Users\ET73\Downloads\projetos-c#\Inheritance5MetodosAbstratos\obj\Debug\net8.0\Inheritance5MetodosAbstratos.genruntimeconfig.cache
+C:\Users\ET73\Downloads\projetos-c#\Inheritance5MetodosAbstratos\obj\Debug\net8.0\ref\Inheritance5MetodosAbstratos.dll
